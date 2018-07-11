@@ -6,5 +6,5 @@
 - Volcano in USA marked with color cirles and popup info
 - Layer control
 
-![App screenshot]("")
+![Screenshot]("https://github.com/Kirapan/python-app2-WebMap/blob/master/python-webmap.png")
 
